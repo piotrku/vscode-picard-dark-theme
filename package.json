@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/piotrku/vscode-picard-dark-theme.git"
+    },
     "contributes": {
         "themes": [
             {
